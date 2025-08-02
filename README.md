@@ -34,10 +34,14 @@ This repository focuses on **Conditional Statements** in Python — the core of 
 ## 🎯 Learning Goals
 
 - Understand Python’s decision-making structure
+
+- 
 - Learn to write code that reacts to different inputs
 - Build real-life logic using conditionals
 
----
+---✍️ Author
+Made with ❤️ by [shekhar]
+Exploring deeper layers of Python with every repo.
 
 ## 📁 Folder Structure
 
